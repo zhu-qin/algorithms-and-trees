@@ -1,0 +1,22 @@
+.row {
+  display: flex;
+}
+
+.box {
+  padding: 20px;
+  border: 1px solid black;
+  margin: 2px;
+}
+
+.knight {
+  /*border-color: orange;*/
+  background-color: orange;
+}
+
+.target {
+  background: green;
+}
+
+.opaque {
+  opacity: 0.5;
+}
